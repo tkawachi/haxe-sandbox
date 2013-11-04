@@ -1,0 +1,4 @@
+-js target/jsInclude.js
+-D embed-js
+-cp src
+-main jsInclude.Main
