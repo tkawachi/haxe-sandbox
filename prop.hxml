@@ -1,0 +1,3 @@
+-cp src
+-js target/prop.js
+-main prop.Main
