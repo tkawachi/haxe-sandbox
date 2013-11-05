@@ -26,13 +26,5 @@ class User extends Model {
     }
     return s;
   }
-  
 
-  // prop(passwordHash: String);
-  /*
-    以下に展開される。
-    @:isVar var passwordHash(get, set): String;
-    public function get_passwordHash() { return this.passwordHash; }
-    public function set_passwordHash(s: String) { return this.passwordHash = s; }
-   */
 }
